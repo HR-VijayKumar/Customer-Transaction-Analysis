@@ -37,5 +37,5 @@ It is based on the Santander Customer Transaction Prediction dataset and focuses
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/HR-VijayKumar/Brazil_Forest_Fire_Analysis.git
-   cd Brazil_Forest_Fire_Analysis
+   git clone https://github.com/HR-VijayKumar/Customer-Transaction-Analysis.git
+   cd Customer-Transaction-Analysis
