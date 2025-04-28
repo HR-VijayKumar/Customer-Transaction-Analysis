@@ -10,6 +10,12 @@ It is based on the Santander Customer Transaction Prediction dataset and focuses
 
 ---
 
+## 📂 Dataset
+
+- Dataset Source: https://www.kaggle.com/datasets/lakshmi25npathi/santander-customer-transaction-prediction-dataset
+
+---
+
 ## 🚀 Features
 
 - 📊 Countplot and Violinplot for target class visualization (optimized for speed)
